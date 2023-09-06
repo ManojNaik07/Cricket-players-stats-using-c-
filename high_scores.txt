@@ -1,0 +1,6 @@
+bhoomi 20
+mk     20
+s       0
+rrr 0
+rrr 10
+rocky 10
